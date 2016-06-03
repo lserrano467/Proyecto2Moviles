@@ -79,8 +79,8 @@ public class IMService extends Service implements IAppManager, IUpdateData {
 	ISocketOperator socketOperator = new SocketOperator(this);
 
 	private final IBinder mBinder = new IMBinder();
-	private String username;
-	private String password;
+	private String username ;
+	private String password ;
 	private boolean authenticatedUser = false;
 	 // timer to take the updated data from server
 	private Timer timer;

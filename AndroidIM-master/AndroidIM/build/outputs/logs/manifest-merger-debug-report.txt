@@ -65,10 +65,10 @@ service#at.vcity.androidim.services.IMService
 ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:27:3-57
 	android:name
 		ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:27:12-46
-activity#at.vcity.androidim.Login
+activity#at.vcity.androidim.SignUp
 ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:28:3-34:14
 	android:name
-		ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:28:13-34
+		ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:28:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:29:4-33:20
 category#android.intent.category.LAUNCHER
@@ -79,10 +79,10 @@ activity#at.vcity.androidim.Messaging
 ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:35:3-42:14
 	android:name
 		ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:35:13-38
-activity#at.vcity.androidim.SignUp
+activity#at.vcity.androidim.Login
 ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:45:2-48:12
 	android:name
-		ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:45:12-34
+		ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:45:12-33
 activity#at.vcity.androidim.AddFriend
 ADDED from C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\src\main\AndroidManifest.xml:49:1-52:12
 	android:name

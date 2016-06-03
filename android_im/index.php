@@ -26,10 +26,10 @@
 
 require_once("mysql.class.php");
 
-$dbHost = "localhost";
-$dbUsername = "android_im";
-$dbPassword = "password4android_im";
-$dbName = "android_im";
+$dbHost = "mysql.hostinger.es";
+$dbUsername = "u274481124_msg";
+$dbPassword = "intra01message";
+$dbName = "u274481124_intra";
 
 
 $db = new MySQL($dbHost,$dbUsername,$dbPassword,$dbName);

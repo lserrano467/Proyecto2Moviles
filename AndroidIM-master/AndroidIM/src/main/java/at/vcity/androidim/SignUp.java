@@ -71,8 +71,6 @@ public class SignUp extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 	        super.onCreate(savedInstanceState);    
 
-	    
-	               
 	        setContentView(R.layout.sign_up_screen);
 	        setTitle("Sign up");
 	        

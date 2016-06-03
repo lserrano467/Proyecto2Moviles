@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_sample.png",
+        "source": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\src\\main\\res\\drawable-hdpi\\stat_sample.png"
+    },
+    {
+        "merged": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\greenstar.png",
+        "source": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\src\\main\\res\\drawable-hdpi\\greenstar.png"
+    },
+    {
+        "merged": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\redstar.png",
+        "source": "C:\\Users\\luis\\Desktop\\AndroidIM-master\\AndroidIM\\src\\main\\res\\drawable-hdpi\\redstar.png"
+    }
+]

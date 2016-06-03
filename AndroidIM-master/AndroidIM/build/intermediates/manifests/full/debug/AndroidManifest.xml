@@ -28,7 +28,7 @@
 
         <service android:name="at.vcity.androidim.services.IMService" />
 
-        <activity android:name="at.vcity.androidim.Login" >
+        <activity android:name="at.vcity.androidim.SignUp" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -44,7 +44,7 @@
                 </category>
             </intent-filter>
         </activity>
-        <activity android:name="at.vcity.androidim.SignUp" >
+        <activity android:name="at.vcity.androidim.Login" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,0 +1,13 @@
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$4$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$9$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$7$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$6$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$2$1$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$2$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$3$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$5$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$8$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\communication\SocketOperator$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\vcity\androidim\SignUp$2$1$1$override.class
+CHANGED,C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
