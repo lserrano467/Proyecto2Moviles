@@ -1,0 +1,16 @@
+dominio
+IntraMessage.com
+
+pass
+intra01message
+
+
+db
+nombre de la base
+u274481124_intra
+
+usuario
+u274481124_msg
+
+contraseña
+intra01message
