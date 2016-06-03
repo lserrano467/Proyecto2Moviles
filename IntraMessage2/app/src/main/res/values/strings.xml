@@ -13,4 +13,7 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="dominio">Ingrese el dominio al que pertenece</string>
+    <string name="tituLogin">Ingrese su Usuario y Contraseña</string>
+    <string name="btnLogin">Iniciar</string>
 </resources>

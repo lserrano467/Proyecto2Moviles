@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="32ecd7c1f7fcfaa4e79f5c53ed41b9265b694202">
+        <dex dex="C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\pre-dexed\debug\instant-run_1b6934c27b9adf2244d0470cb3475496158919cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="32411cabdbf60844f637007842b158b8c670ffa4">
+        <dex dex="C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6ef5eae63c6708600145fc1fd19fd4e735c05055.jar" />
+    </item>
+    <item
+        jar="C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="C:\Users\luis\Desktop\AndroidIM-master\AndroidIM\build\intermediates\pre-dexed\debug\android-support-v4_0144c3180a8d51476b09bbeb32d47333512e83b1.jar" />
+    </item>
+
+</items>
